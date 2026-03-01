@@ -19,16 +19,27 @@ Statistika-Polinema/
 │   └── notebook/
 │       └── Jawaban.ipynb
 ├── Tugas-2/
+│   ├── img/
+│   │   ├── BoxPot.png
+│   │   ├── Distribusi.png
+│   │   ├── HapusOutlier.png
+│   │   ├── IQR.png
+│   │   ├── Pergeseran.png
+│   │   ├── SampleData.png
+│   │   └── Scaling.png
 │   └── notebook/
 │       └── Jawaban.ipynb
 ├── .gitignore
 └── README.md
-``` Instalasi
+
+```
+
+## Instalasi
 
 1. Clone repositori:
 
    ```bash
-   git clone <url-repositori>
+   git clone https://github.com/Raditfiransah/Statistika-Polinema.git
    cd Statistika-Polinema
    ```
 
